@@ -11,17 +11,10 @@
 - **调试模式**：启用调试模式，方便开发者进行应用调试和分析。
 - 点击宝石或者设置打开菜单。
 
-![image](https://github.com/Xposed-Modules-Repo/com.duolingo.kill/blob/main/1.jpg)
-![image](https://github.com/Xposed-Modules-Repo/com.duolingo.kill/blob/main/2.jpg)
-![image](https://github.com/Xposed-Modules-Repo/com.duolingo.kill/blob/main/3.jpg)
+![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/1.jpg)
+![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/2.jpg)
+![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/3.jpg)
 
 
 ## 免责声明
 本工具仅供学习和研究使用，严禁用于商业或非法用途。开发者不对因使用此工具而产生的任何后果负责。
-
-## 相关仓库
-- **Xposed 框架**：  
-  [Xposed GitHub Repository](https://github.com/rovo89/Xposed)
-- **DexKit**：  
-  [DexKit GitHub Repository](https://github.com/LuckyPray/DexKit)
- 
