@@ -1,7 +1,8 @@
  
 # 多邻国杀手 - Duolingo Kill
 
-![release](https://img.shields.io/github/release/Xposed-Modules-Repo/com.duolingo.kill.svg)![download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.duolingo.kill/total.svg)
+![release](https://img.shields.io/github/release/Xposed-Modules-Repo/com.duolingo.kill.svg)
+![download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.duolingo.kill/total.svg)
 
 ## 简介
 多邻国杀手（Duolingo Kill）是一款专为Duolingo应用设计的增强工具。请注意，使用此工具可能违反Duolingo的服务条款，使用前请谨慎考虑。
