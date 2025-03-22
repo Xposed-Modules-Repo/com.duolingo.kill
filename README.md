@@ -1,7 +1,7 @@
  
 # 多邻国杀手 - Duolingo Kill
 
-![![release](https://img.shields.io/github/release/Xposed-Modules-Repo/com.duolingo.kill.svg)](https://github.com/Xposed-Modules-Repo/com.duolingo.kill/releases)
+![[release](https://github.com/Xposed-Modules-Repo/com.duolingo.kill/releases)](https://img.shields.io/github/release/Xposed-Modules-Repo/com.duolingo.kill.svg)
 ![download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.duolingo.kill/total.svg)
 
 ## 简介
