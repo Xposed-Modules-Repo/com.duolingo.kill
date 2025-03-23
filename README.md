@@ -18,7 +18,7 @@
 ![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/1.jpg)
 ![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/2.jpg)
 ![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/3.jpg)
-
+![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/4.jpg)
 
 ## 免责声明
 本工具仅供学习和研究使用，严禁用于商业或非法用途。开发者不对因使用此工具而产生的任何后果负责。
