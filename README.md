@@ -13,6 +13,7 @@
 - **经验增强**：练习模式每次学习所获得的经验值为100xp。
 - **调试模式**：启用调试模式，方便开发者进行应用调试和分析。
 - 点击五角星悬浮窗或者设置打开菜单。
+- 有bug或者没反应issues反馈。
 
 ![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/1.jpg)
 ![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/2.jpg)
