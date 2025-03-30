@@ -1,5 +1,5 @@
 
-🌟 **多邻国杀手（Duolingo Kill）**  
+# 🌟 **多邻国杀手（Duolingo Kill）**  
 ——解锁高效学习体验，突破语言学习限制  
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GModify)
