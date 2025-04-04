@@ -35,7 +35,7 @@
 2. **问题反馈**  
    - 提交 Issues 至 [项目仓库](https://github.com/Xposed-Modules-Repo/com.duolingo.kill/issues)  
    - 附截图与设备信息（Android 版本/模块版本）
-   - 建议下载6.18版本以上。[点我前往](https://www.apkmirror.com/uploads/?appcategory=duolingo-duolingo)
+   - 建议下载6.0以上版本。[点我前往](https://www.apkmirror.com/uploads/?appcategory=duolingo-duolingo)
 
 ---
 
