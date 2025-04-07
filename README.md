@@ -52,7 +52,7 @@
 
 
 ## 📰 **图片展示**
-![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/1.jpg)
-![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/2.jpg)
-![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/3.jpg)
-![image](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/4.jpg)
+<img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/1.jpg" width = "300">
+<img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/2.jpg" width = "300">
+<img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/3.jpg" width = "300">
+<img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.duolingo.kill/refs/heads/main/4.jpg" width = "300">
